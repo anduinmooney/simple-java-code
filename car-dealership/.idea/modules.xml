@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/car-dealership.iml" filepath="$PROJECT_DIR$/.idea/modules/car-dealership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/car-dealership_main.iml" filepath="$PROJECT_DIR$/.idea/modules/car-dealership_main.iml" group="car-dealership" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/car-dealership_test.iml" filepath="$PROJECT_DIR$/.idea/modules/car-dealership_test.iml" group="car-dealership" />
+    </modules>
+  </component>
+</project>
