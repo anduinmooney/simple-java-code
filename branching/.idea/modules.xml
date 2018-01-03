@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/branching.iml" filepath="$PROJECT_DIR$/.idea/modules/branching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/branching_main.iml" filepath="$PROJECT_DIR$/.idea/modules/branching_main.iml" group="branching" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/branching_test.iml" filepath="$PROJECT_DIR$/.idea/modules/branching_test.iml" group="branching" />
+    </modules>
+  </component>
+</project>
